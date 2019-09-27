@@ -1,1 +1,2 @@
-"#Assignment_2"
+"#Lecture_2"
+"Building an angular application from scratch "
