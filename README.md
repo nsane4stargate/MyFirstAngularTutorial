@@ -1,2 +1,2 @@
-"#Lecture_2"
-"Building an angular application from scratch "
+#Lecture_2
+Building an angular application from scratch 
